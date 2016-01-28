@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 
 
 public class Bounce extends Component implements MouseListener{
-	
+	//
 	static boolean end = false;
 	static JFrame f;
 	static final Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
